@@ -3,7 +3,7 @@
 
 > ## Hướng dẫn cung cấp dữ liệu đầu vào
 Bước 1: Vào thư mục chứa chương trình và mở file **Data\Config.xlsx**  
-![image](https://drive.google.com/file/d/1grsHCRQ88j8rKMd7vfvqwTuNPs5pmLt7/view?usp=share_link)  
+![image](https://github.com/ismphi/UiPath-Learning/blob/master/libary/config.jpg)  
 Bước 2: Xem hướng dẫn trong sheet **“General”**  
 Bước 3: Tạo 1 file excel mới đúng theo form nhập dữ liệu theo hướng dẫn trong sheet **“General”**  
 Bước 4: kéo file excel vừa tạo vào thư mục **Data\Input** và đổi tên file trong sheet **“Settings”** hoặt lưu file nơi bất kỳ đâu và nhập đường dẫn trong sheet **“Settings”**(Hướng dẫn cấu hình file Config bên dưới)
