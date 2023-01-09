@@ -30,6 +30,10 @@ Bước 1: Mở Uipath và chọn chương trình cần chạy hoặt vào thư 
   
 ![image](https://github.com/ismphi/UiPath-Learning/blob/master/libary/tmtgtv/main.png)  
   
+hoặt  
+  
+![image](https://github.com/ismphi/UiPath-Learning/blob/master/libary/tmtgtv/uipath.png)  
+  
 Bước 2: Mở **FAST** và vào đúng màn hình thêm mới dữ liệu  
   
 ![image](https://github.com/ismphi/UiPath-Learning/blob/master/libary/tmtgtv/new.png)  
