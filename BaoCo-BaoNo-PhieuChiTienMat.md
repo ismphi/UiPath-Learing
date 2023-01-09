@@ -1,4 +1,9 @@
 # HƯỚNG DẪN CHUNG KHI SỬ DỤNG UIPATH
+### 1. Phím tắt dừng chương trình UiPath **F12  
+### 3. Tắt các ứng dụng không cần thiết  
+### 4. Tắt các file mà UiPath sẽ tương tác khi chạy(.xlsx, .txt, ...)  
+### 5. Nên cắm nguồn điện laptop khi chạy chương trình  
+  
 # HƯỚNG DẪN CHUẨN BỊ TRƯỚC KHI CHẠY CÁC CHƯƠNG TRÌNH **"UA-GiayBaoCo", "UA-GiayBaoNo", "UA-PhieuChiTienMat"**  
 
 > ## Hướng dẫn cung cấp dữ liệu đầu vào  
