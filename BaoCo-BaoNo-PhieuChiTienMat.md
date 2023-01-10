@@ -53,7 +53,7 @@ Sau khi thực hiện xong chương trình sẽ gửi 1 tin nhắn đến các �
 - AMOUNT: Số dòng người dùng cấu hình  
 - Report Content: Nội dung report của chương trình  
 > ## Hướng dẫn sửa một số lỗi cơ bản thường gặp  
-** Lỗi 1: ** do phản hồi từ chương trình FAST  
+Lỗi 1: do phản hồi từ chương trình FAST  
 Cách sửa:  đóng cửa sổ FAST đang chạy và mở lại cửa sổ mới  
 ![image](https://github.com/ismphi/UiPath-Learning/blob/master/libary/tmtgtv/error1.png)  
   
