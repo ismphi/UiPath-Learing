@@ -45,4 +45,16 @@ hoặt
 **Bước 3:** Click **“mũi tên”** phía dưới Debug File để lựa chọn chức năng và chọn **“Run”**  
   
 ![image](https://github.com/ismphi/UiPath-Learning/blob/master/libary/tmtgtv/run.png)  
+> ## Hướng dẫn kiểm tra email  
+Sau khi thực hiện xong chương trình sẽ gửi 1 tin nhắn đến các địa chỉ mail được cấu hình trong sheet "Settings"  
+![image](https://github.com/ismphi/UiPath-Learning/blob/master/libary/tmtgtv/email.png)  
+- STARTUP: chế độ chương trình đang chạy(test hoặt production)  
+- USER: user chạy chương trình  
+- AMOUNT: Số dòng người dùng cấu hình  
+- Report Content: Nội dung report của chương trình  
+> ## Hướng dẫn sửa một số lỗi cơ bản thường gặp  
+**Lỗi 1: ** do phản hồi từ chương trình FAST  
+Cách sửa:  đóng cửa sổ FAST đang chạy và mở lại cửa sổ mới  
+![image](https://github.com/ismphi/UiPath-Learning/blob/master/libary/tmtgtv/error1.png)  
+  
 
