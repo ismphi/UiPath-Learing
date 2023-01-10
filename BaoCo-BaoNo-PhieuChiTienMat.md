@@ -51,6 +51,7 @@ Sau khi thực hiện xong chương trình sẽ gửi 1 tin nhắn đến các �
 - STARTUP: chế độ chương trình đang chạy(test hoặt production)  
 - USER: user chạy chương trình  
 - AMOUNT: Số dòng người dùng cấu hình  
+- TIME: thời gian chạy chương trình
 - Report Content: Nội dung report của chương trình  
 > ## Hướng dẫn sửa một số lỗi cơ bản thường gặp  
 Lỗi 1: do phản hồi từ chương trình FAST  
