@@ -20,13 +20,6 @@
   
 ![image](https://github.com/ismphi/UiPath-Learning/blob/master/libary/tmtgtv/input.png)  
   
-
-> ## Hướng dẫn Cấu hình chi tiết  
-**Bước 1:** Vào thư mục chứa chương trình và mở file **Data\Config.xlsx**  
-  
-**Bước 2:** Cấu hình các thông số như hướng dẫn trong sheet **“Setting”**  
-  
-![image](https://github.com/ismphi/UiPath-Learning/blob/master/libary/tmtgtv/setting.png)  
   
 > ## Chạy chương trình  
 >   
